@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "jebaccraftcubaesza.aternos.me",
+    "ip": "blackwingedstilt.aternos.host",
     "port": 24352,
-    "version": "1.21.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
