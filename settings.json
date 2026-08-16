@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "JebacZenciaka",
+    "username": "lubie_dzieci",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "jebaccraftcubaesza.aternos.me",
     "port": 24352,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -388.5,
+    "y": 129.0,
+    "z": -3.5
   },
   "utils": {
     "auto-auth": {
